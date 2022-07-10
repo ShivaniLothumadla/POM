@@ -1,0 +1,4 @@
+{
+  "test_explicit_wait_fluent_wait.py::test_act": true,
+  "test_hide_show.py": true
+}
